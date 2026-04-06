@@ -99,6 +99,16 @@ An intelligent AI agent framework that orchestrates **multiple MCP (Model Contex
 
 ---
 
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Kamalasekar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kamalviewcode-spec&theme=github-dark&hide_border=true&area=true&area_color=1f6feb&line=1f6feb&point=58a6ff)](https://github.com/kamalviewcode-spec)
+
+</div>
+
+---
+
 ## 🎯 Current Focus
 
 - 🔬 **AI Agents & MCP** — Building production-grade agentic systems using the Model Context Protocol
