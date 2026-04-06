@@ -1,7 +1,8 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Kamalasekar%20Perumal&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20AI%20%26%20MCP%20Enthusiast%20%7C%20Full-Stack%20Developer&descSize=16&descAlignY=55&descAlign=50&animation=fadeIn" width="100%" />
+# Hi there, I'm Kamalasekar Perumal 👋
+
+### Senior Software Engineer | AI & MCP Enthusiast | Full-Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamalasekar-perumal-bb627435/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamalviewcode-spec)
@@ -134,8 +135,8 @@ I'm always open to collaborating on **AI agent projects**, **MCP integrations**,
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=100&section=footer" width="100%" />
+---
 
-<sub>⚡ Built with passion for clean code and intelligent systems</sub>
+⚡ *Built with passion for clean code and intelligent systems*
 
 </div>
