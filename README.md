@@ -99,18 +99,6 @@ An intelligent AI agent framework that orchestrates **multiple MCP (Model Contex
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kamalviewcode-spec&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9" height="170" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalviewcode-spec&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&text_color=c9d1d9" height="170" />
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 - 🔬 **AI Agents & MCP** — Building production-grade agentic systems using the Model Context Protocol
